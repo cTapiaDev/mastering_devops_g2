@@ -9,7 +9,7 @@ A continuación se detallan los proyectos desarrollados para cada módulo del cu
 #### 🤖 Módulo 2: Automatización con IA en DevOps
 Este proyecto sienta las bases para un flujo de desarrollo inteligente. Se construye una API REST fundamental con Node.js y Express, diseñada para ser el punto de partida para futuras integraciones con la API de OpenAI y la automatización de su despliegue mediante un pipeline de CI/CD.
 * <b>Tecnologías Clave:</b> `Node.js`, `Express.js`.
-* <b>Repositorio del Proyecto:</b> [ctapiadev/mi-api-inteligente]([https://github.com/cTapiaDev/cicd-express-openai](https://github.com/cTapiaDev/mi-api-inteligente-m2g2))
+* <b>Repositorio del Proyecto:</b> [ctapiadev/mi-api-inteligente](https://github.com/cTapiaDev/mi-api-inteligente-m2g2)
 
 ---
 
