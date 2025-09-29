@@ -1,0 +1,3 @@
+[submodule "mi-api-inteligente"]
+	path = mi-api-inteligente
+	url = https://github.com/cTapiaDev/mi-api-inteligente-m2g2
